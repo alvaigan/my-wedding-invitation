@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <CoverSection />
 
-      <MainSection imageSrc="/images/main.jpg" coupleNames="Alvaigan & Ridzka Nur Fajrie" />
+      <MainSection imageSrc="/images/main.png" coupleNames="Alvaigan & Ridzka Nur Fajrie" />
 
     </div>
   );
